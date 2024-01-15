@@ -9,6 +9,7 @@ The use of deep learning, including recurrent neural networks, allows for captur
 This script's main goal is to create nodes along road networks successfully converting them to graph networks. These scripts have the capability of creating nodes equal intervals apart and on the intersection of roads. This data will then be fed into the Google Street View API where we will extract the images and feed them into our deep learning model.
 
 This script will undergo enhancements to ensure the selection of high-quality street view images, a process dependent on the nodes' locations. This is crucial as these images serve as inputs for the deep learning model.
+To view these shape files you can download ArcGIS, QGIS, or any online geographic information system software.
 
 <img width="348" alt="21stAve" src="https://github.com/usaeedcs/GoogleStreetViewImageryDownloader/assets/85361194/4b7b0406-c059-44e9-94dd-399bb7fcc9ec">
 
